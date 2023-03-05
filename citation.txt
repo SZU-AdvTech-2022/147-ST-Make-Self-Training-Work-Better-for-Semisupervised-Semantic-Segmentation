@@ -1,0 +1,7 @@
+@inproceedings{REPO-148,
+    author = "Yang, Lihe and Zhuo, Wei and Qi, Lei and Shi, Yinghuan and Gao, Yang",
+    booktitle = "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition",
+    pages = "4268--4277",
+    title = "{ST++: Make Self-Training Work Better for Semisupervised Semantic Segmentation}",
+    year = "2022"
+}
